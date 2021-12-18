@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "c4be475a-ef49-47d2-a75f-4e8f8d6b9292",
+      "name": "Nikesh",
+      "email": "Nick@gmail.com"
+    },
+    {
+      "id": "d092f095-65f1-42ba-bb09-2cd90322a3bc",
+      "name": "Max",
+      "email": "dipe@gmail.com"
+    },
+    {
+      "id": "cf98e79a-8cf6-4dfd-8ca1-8e33e0ad42fa",
+      "name": "rohit",
+      "email": "rohit@gmail.com"
+    },
+    {
+      "id": "03c8d955-3090-4525-821a-c6deb4ef6f08",
+      "name": "sujit1",
+      "email": "sujit1@gmail.com"
+    },
+    {
+      "id": "eebe18e5-e53f-4a77-9357-4896643eadb8",
+      "name": "hipla",
+      "email": "hipla@gmail.com"
+    },
+    {
+      "id": "b2bc9850-953f-4560-ab9e-0817965491d3",
+      "name": "sumit",
+      "email": "sumit@gmail.com"
+    },
+    {
+      "id": "b20bae47-0b31-4993-9bcc-55d536be2fec",
+      "name": "aman",
+      "email": "aman@gmail.com"
+    }
+  ]
+}
